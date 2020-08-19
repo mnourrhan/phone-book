@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hello",
+    "email": "user@gmail.com",
+    "address": "testahel",
+    "id": 2,
+    "phone_numbers": [
+      "123456",
+      "123456789"
+    ]
+  },
+  {
+    "name": "user 3",
+    "email": "email3@gmail.com",
+    "address": "address3",
+    "phone_numbers": [
+      "012200000000",
+      "012200000001"
+    ],
+    "id": 3
+  },
+  {
+    "name": 2,
+    "email": 1,
+    "address": "testahel",
+    "phone_number": [
+      "5646456456465",
+      "56456456464"
+    ],
+    "id": 4
+  },
+  {
+    "name": "new user",
+    "email": "user@gmail.com",
+    "address": "testahel",
+    "phone_number": [
+      "5646456456465",
+      "56456456464"
+    ],
+    "id": 6
+  }
+]
